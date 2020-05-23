@@ -1,0 +1,18 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+.idea
+.vscode
+
+# JS template
+/node_modules
+yarn-error.log
+syqe-js-serverless.iml
+
+# dotenv environment variables file
+.env
+.DS_Store
